@@ -1,0 +1,3 @@
+pypiwin32==224
+python-tk==8.6
+opencv-contrib-python==3.4.2.16

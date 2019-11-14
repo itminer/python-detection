@@ -1,0 +1,16 @@
+***** Kosal.M ****
+
+- Run Program.
+    1. please install modules on your local machine by execute following in CMD.
+        Command: "pip install -r requirement.txt"
+    2. please run index.py
+        Command: "python index.py"
+
+- Help
+    Sock images will be saved in model folder.
+    And you can check by pressing space button of keyboard.
+    You can change detector sensor in this program.
+    Exit program by pressing ESC button.
+
+I am glad to work for you and want to keep long term relationship with you.
+
